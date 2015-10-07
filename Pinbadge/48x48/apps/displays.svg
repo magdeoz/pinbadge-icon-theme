@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g id="Outer_Circle">
+	<linearGradient id="Outer_Circle_2_" gradientUnits="userSpaceOnUse" x1="24" y1="1.25" x2="24" y2="46.75">
+		<stop  offset="0" style="stop-color:#FAFAFA"/>
+		<stop  offset="1" style="stop-color:#BDBDBD"/>
+	</linearGradient>
+	<circle id="Outer_Circle_1_" fill="url(#Outer_Circle_2_)" cx="24" cy="24" r="22.75"/>
+	<g>
+		<path id="Circle_Shade" opacity="0.2" fill="#202020" d="M24,46.513c-12.525,0-22.685-10.122-22.748-22.632
+			c0,0.04-0.002,0.079-0.002,0.118c0,12.564,10.186,22.75,22.75,22.75S46.75,36.564,46.75,24c0-0.04-0.001-0.079-0.002-0.118
+			C46.685,36.391,36.525,46.513,24,46.513z"/>
+		<path id="Circle_Tint" opacity="0.05" fill="#202020" d="M24,1.487c12.525,0,22.685,10.122,22.748,22.632
+			c0-0.04,0.002-0.079,0.002-0.118C46.75,11.436,36.564,1.25,24,1.25S1.25,11.436,1.25,24c0,0.04,0.001,0.079,0.002,0.118
+			C1.315,11.609,11.475,1.487,24,1.487z"/>
+	</g>
+</g>
+<linearGradient id="Inner_Circle_1_" gradientUnits="userSpaceOnUse" x1="24" y1="2.5" x2="24" y2="45.5">
+	<stop  offset="0" style="stop-color:#FF5722"/>
+	<stop  offset="1" style="stop-color:#BF360C"/>
+</linearGradient>
+<circle id="Inner_Circle" fill="url(#Inner_Circle_1_)" cx="24" cy="24" r="21.5"/>
+<g id="Glyph_Shade" opacity="0.2">
+	<path fill="#BF360C" d="M21.727,33.083h-7.955c-1.255,0-2.273-1.018-2.273-2.273v0.25c0,1.255,1.018,2.273,2.273,2.273h7.955
+		V33.083z"/>
+	<rect x="13.773" y="17.174" fill="#BF360C" width="20.455" height="0.25"/>
+	<path fill="#BF360C" d="M34.227,33.083h-7.955v0.25h7.955c1.255,0,2.273-1.018,2.273-2.273v-0.25
+		C36.5,32.066,35.482,33.083,34.227,33.083z"/>
+	<rect x="19.455" y="37.629" fill="#BF360C" width="9.091" height="0.25"/>
+</g>
+<linearGradient id="Glyph_1_" gradientUnits="userSpaceOnUse" x1="24" y1="14.9015" x2="24" y2="37.6288">
+	<stop  offset="0" style="stop-color:#FAFAFA"/>
+	<stop  offset="1" style="stop-color:#E0E0E0"/>
+</linearGradient>
+<path id="Glyph" fill="url(#Glyph_1_)" d="M34.227,30.811H13.773V17.174h20.455 M34.227,14.902H13.773
+	c-1.261,0-2.273,1.011-2.273,2.273v13.636c0,1.255,1.018,2.273,2.273,2.273h7.955v2.273h-2.273v2.273h9.091v-2.273h-2.273v-2.273
+	h7.955c1.255,0,2.273-1.018,2.273-2.273V17.174C36.5,15.913,35.477,14.902,34.227,14.902z"/>
+<g id="Glyph_Tint">
+	<rect x="19.455" y="35.356" fill="#FFFFFF" width="2.273" height="0.25"/>
+	<rect x="13.773" y="30.811" fill="#FFFFFF" width="20.455" height="0.25"/>
+	<path fill="#FFFFFF" d="M34.227,14.902H13.773c-1.261,0-2.273,1.011-2.273,2.273v0.25c0-1.261,1.011-2.273,2.273-2.273h20.455
+		c1.25,0,2.273,1.011,2.273,2.273v-0.25C36.5,15.913,35.477,14.902,34.227,14.902z"/>
+	<rect x="26.273" y="35.356" fill="#FFFFFF" width="2.273" height="0.25"/>
+</g>
+</svg>
