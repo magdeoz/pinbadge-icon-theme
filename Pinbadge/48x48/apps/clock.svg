@@ -3,6 +3,11 @@
 <svg version="1.1" id="Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
 <g id="Outer_Circle">
+	<linearGradient id="Outer_Circle_2_" gradientUnits="userSpaceOnUse" x1="24" y1="1.25" x2="24" y2="46.75">
+		<stop  offset="0" style="stop-color:#FAFAFA"/>
+		<stop  offset="1" style="stop-color:#BDBDBD"/>
+	</linearGradient>
+	<circle id="Outer_Circle_1_" fill="url(#Outer_Circle_2_)" cx="24" cy="24" r="22.75"/>
 	<g>
 		<path id="Circle_Shade" opacity="0.2" fill="#202020" d="M24,46.513c-12.525,0-22.685-10.122-22.748-22.632
 			c0,0.04-0.002,0.079-0.002,0.118c0,12.564,10.186,22.75,22.75,22.75S46.75,36.564,46.75,24c0-0.04-0.001-0.079-0.002-0.118
