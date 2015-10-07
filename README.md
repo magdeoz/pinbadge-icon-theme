@@ -38,3 +38,4 @@ sudo make install
 # Special thanks
 * [Philippe Loctaux] (https://github.com/loctauxphilippe) for setting up the Linux package, the PPA, and the AUR package
 * [Material Open Source] (https://github.com/materialos) for letting me use their graphical assets
+* [Material Design Icons] (https://materialdesignicons.com/) for letting me use their graphical assets
